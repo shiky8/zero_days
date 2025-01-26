@@ -49,7 +49,7 @@ Web-based management interface of BW Broadcast Transmitter.
   - **Escalation of Privileges:** Full system compromise through session hijacking.  
 
 ## poc
-https://github.com/user-attachments/assets/433d867f-89e8-42d4-a673-94e69c862b9d
+https://github.com/user-attachments/assets/42616740-c6a7-45e2-ab69-2670512710fc
 
 ## Suggested Fixes
 1. **Access Control:** Restrict access to log files using authentication and authorization mechanisms.  
