@@ -1,4 +1,4 @@
-# Electrolink FM/DAB/TV Transmitter Web Management System Vulnerability
+# Electrolink FM/DAB/TV Transmitter Web Management System , Credentials Disclosure Vulnerability
 
 ## Description 
 Electrolink FM/DAB/TV Transmitter web management system is vulnerable to credential disclosure due to an exposed JavaScript file (`controlloLogin.js`). The file contains hard-coded or sensitive credentials in plaintext, accessible without authentication. An attacker could retrieve this file and extract sensitive information, leading to unauthorized administrative access and complete system compromise.
