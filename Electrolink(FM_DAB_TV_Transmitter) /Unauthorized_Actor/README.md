@@ -6,6 +6,8 @@ Electrolink FM/DAB/TV Transmitter web management system is vulnerable to credent
 ## Vendor of the Product(s)
 **Electrolink**
 
+## Vendor Homepage:** https://www.electrolink.com
+
 ## Affected Product(s)/Code Base
 - **Product:** Electrolink FM/DAB/TV Transmitter Web Management System  
 
