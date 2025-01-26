@@ -1,4 +1,4 @@
-# BW Broadcast Transmitter Management System Vulnerability
+# BW Broadcast Transmitter Management System ,Session Hijacking Vulnerability
 
 ## Description 
 A session hijacking vulnerability exists in the BW Broadcast Transmitter Management System due to exposed log files accessible over HTTP. The logs contain session identifiers (`sid`) related to successful remote logins. An attacker can extract these identifiers and use them to gain unauthorized access to the system, leading to potential administrative compromise.
