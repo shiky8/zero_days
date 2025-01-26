@@ -1,6 +1,6 @@
-# GatesAir Maxiva UAXTE-8 Transmitter Vulnerabilities
+# GatesAir Maxiva UAXT , VAXT Transmitter Vulnerabilities
 
-This directory contains details about critical vulnerabilities discovered in the **GatesAir Maxiva UAXTE-8 Transmitter** web-based management interface. These vulnerabilities expose the system to various attacks, including **Remote Code Execution (RCE)**, **Session Hijacking**, and **Information Disclosure**.
+This directory contains details about critical vulnerabilities discovered in the **GatesAir Maxiva UAXT , VAXT Transmitter** web-based management interface. These vulnerabilities expose the system to various attacks, including **Remote Code Execution (RCE)**, **Session Hijacking**, and **Information Disclosure**.
 
 ---
 
