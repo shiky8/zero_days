@@ -44,7 +44,7 @@ Web-based management interface of ECRESO FM/DAB/TV Transmitter.
   - **Potential Full System Compromise:** Administrative access enables attackers to control and manipulate the device entirely.  
 
 ## poc 
-https://github.com/user-attachments/assets/32454f3c-563b-48ac-b9db-fe57b3968fb6
+https://github.com/user-attachments/assets/61f0b587-0275-4cfa-829a-c3d1a0c137bb
 
 ## Suggested Fixes
 1. **Authorization Validation:** Enforce strict server-side validation for privilege changes.  
