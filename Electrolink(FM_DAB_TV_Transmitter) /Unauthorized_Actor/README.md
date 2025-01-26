@@ -43,7 +43,7 @@ Web-based management interface of Electrolink FM/DAB/TV Transmitter.
   - **Escalation of Privileges:** Full system compromise through credential reuse.  
 
 ## poc
-https://github.com/user-attachments/assets/40a1932a-ae32-44bb-a041-41d1cdf5c4ec
+https://github.com/user-attachments/assets/89d1f286-bb99-4ba9-b4e0-dae69e03ee1e
 
 ## Suggested Fixes
 1. **Access Control:** Restrict access to sensitive files using authentication mechanisms.  
