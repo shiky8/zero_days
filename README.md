@@ -28,7 +28,13 @@ The repository is organized into directories, each corresponding to a specific v
 ### 4. **Electrolink**
    - **Product:** FM/DAB/TV Transmitter Web Management System  
    - **Vulnerabilities:**  
-     - Credentials Disclosure via `/controlloLogin.js`.  
+     - Credentials Disclosure via `/controlloLogin.js`.
+### 5. **Electrolink**
+   - **Product:** db mozart fm transmitter
+   - **Vulnerabilities:**  
+     - Cross-Site Scripting (XSS) via `/main0.php`.
+     - authenticated File Upload via `/patch.php`.
+     - Unauthenticated File Upload via `/upload_file.php`.  
 
 ---
 
