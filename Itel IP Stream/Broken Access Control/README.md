@@ -6,6 +6,7 @@ The Itel IP Stream WebSocket API suffers from broken access control, allowing un
 
 ## Vendor Information
 **Vendor:** Itel Electronics
+
 **Vendor Homepage:** https://www.itel.it/
 
 ## Affected Product(s)
