@@ -34,7 +34,14 @@ The repository is organized into directories, each corresponding to a specific v
    - **Vulnerabilities:**  
      - Cross-Site Scripting (XSS) via `/main0.php`.
      - authenticated File Upload via `/patch.php`.
-     - Unauthenticated File Upload via `/upload_file.php`.  
+     - Unauthenticated File Upload via `/upload_file.php`.
+     
+### 6. Itel Electronics
+
+- **Product:** Itel IP Stream
+- **Vulnerabilities:**
+  - Broken Access Control allowing unauthenticated WebSocket connections, leading to potential unauthorized access and service disruption.
+
 
 ---
 
