@@ -42,6 +42,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Broken Access Control allowing unauthenticated WebSocket connections, leading to potential unauthorized access and service disruption.
 
+### 7. ELCA Electronics
+
+- **Product:** ELCA Star Transmitter Remote Control
+- **Vulnerabilities:**
+  - Information Disclosure via an unprotected endpoint, leading to potential unauthorized access.
+
 
 ---
 
