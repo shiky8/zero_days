@@ -48,6 +48,13 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Information Disclosure via an unprotected endpoint, leading to potential unauthorized access.
 
+### 8. Soundcraft Ui 
+
+- **Product:** Soundcraft Ui Series (Ui12, Ui16)
+- **Vulnerabilities:**
+  - Information Disclosure via an unprotected endpoint, leading to potential unauthorized access.
+
+
 
 ---
 
