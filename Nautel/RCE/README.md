@@ -99,7 +99,7 @@ cd VX_update_6.4.0/
 ---
 # PoC Video
 
-- **Demo Video**: [https://github.com/user-attachments/assets/0da69449-f252-46eb-a348-2de31e269ba5]  
+https://github.com/user-attachments/assets/0da69449-f252-46eb-a348-2de31e269ba5 
 
 ---
 
