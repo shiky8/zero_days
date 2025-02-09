@@ -54,6 +54,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Information Disclosure via an unprotected endpoint, leading to potential unauthorized access.
 
+### 9. Nautel 
+
+- **Product:** Nautel VX Series
+- **Vulnerabilities:**
+  - Remote Code Execution via Unauthorized Firmware Modification.
+
 
 
 ---
