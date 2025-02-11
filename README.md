@@ -60,6 +60,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Remote Code Execution via Unauthorized Firmware Modification.
 
+### 10. Orban 
+
+- **Product:** Orban OPTIMOD 5950 Audio Processor
+- **Vulnerabilities:**
+  - Broken Access Control via Client-Side Manipulation.
+
 
 
 ---
