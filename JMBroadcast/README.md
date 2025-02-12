@@ -1,4 +1,4 @@
-# JMBroadcast JMB0150  Audio Processor   Vulnerability Disclosure
+# JMBroadcast JMB0150  Vulnerability Disclosure
 
 ## Summary
 
