@@ -66,6 +66,13 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Broken Access Control via Client-Side Manipulation.
 
+### 11. JMBroadcast 
+
+- **Product:** JMBroadcast JMB0150
+- **Vulnerabilities:**
+  - Broken Access Control.
+  - Information Disclosure.
+
 
 
 ---
