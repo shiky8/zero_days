@@ -73,6 +73,11 @@ The repository is organized into directories, each corresponding to a specific v
   - Broken Access Control.
   - Information Disclosure.
 
+### 12. DAEnetIP4 
+
+- **Product:** DAEnetIP4 METO
+- **Vulnerabilities:**
+  - Session Hijacking via `/login_ok.htm` endpoints.
 
 
 ---
