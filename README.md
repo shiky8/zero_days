@@ -79,6 +79,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Session Hijacking via `/login_ok.htm` endpoints.
 
+### 13. Elber 
+
+- **Product:** Elber REBLE310
+- **Vulnerabilities:**
+  - Session Hijacking via  `/reble310//indexTH.htm` and `/reble310//indexR.htm` endpoints.
+
 
 ---
 
