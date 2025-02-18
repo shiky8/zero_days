@@ -85,6 +85,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Session Hijacking via  `/reble310//indexTH.htm` and `/reble310//indexR.htm` endpoints.
 
+### 14. R.V.R Elettronica 
+
+- **Product:** R.V.R Elettronica TEX
+- **Vulnerabilities:**
+  -  Broken Access Control via  `/_Passwd.html` endpoints.
+
 
 ---
 
