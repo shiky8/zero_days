@@ -91,6 +91,13 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   -  Broken Access Control via  `/_Passwd.html` endpoints.
 
+### 15.  ITEL Electronics 
+
+- **Product:** ITEL ISO FM SFN Adapter
+- **Vulnerabilities:**
+  - Session Hijacking via  `/home.html` endpoints.
+
+
 
 ---
 
