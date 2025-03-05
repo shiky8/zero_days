@@ -97,6 +97,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Session Hijacking via  `/home.html` endpoints.
 
+### 16.  Dasan Networks
+
+- **Product:** Dasan Switch DS2924
+- **Vulnerabilities:**
+  - Authentication Bypass  via  Cookie-Based.
+
 
 
 ---
