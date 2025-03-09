@@ -103,6 +103,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   - Authentication Bypass  via  Cookie-Based.
 
+### 17.  QVidium
+
+- **Product:** QVidium Opera11
+- **Vulnerabilities:**
+  -  Remote Code Execution  via  net_ping.cgi endpoint.
+
 
 
 ---
