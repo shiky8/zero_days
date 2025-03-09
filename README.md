@@ -107,7 +107,13 @@ The repository is organized into directories, each corresponding to a specific v
 
 - **Product:** QVidium Opera11
 - **Vulnerabilities:**
-  -  Remote Code Execution  via  net_ping.cgi endpoint.
+  -  Remote Code Execution  via  `/net_ping.cgi` endpoint.
+
+### 18.  Sencore
+
+- **Product:** Sencore SMP100 SMP Media Platform
+- **Vulnerabilities:**
+  -  Session Hijacking  via  `/UserManagement.html` endpoint.
 
 
 
