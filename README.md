@@ -117,7 +117,7 @@ The repository is organized into directories, each corresponding to a specific v
 
 ### 19.  Eurolab
 
-- **Product:** Eurolab ELTS100_UBX
+- **Product:** Eurolab ELTS100_UBX GPS
 - **Vulnerabilities:**
   -  Broken Access Control via Endpoints.
 
