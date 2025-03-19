@@ -115,6 +115,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   -  Session Hijacking  via  `/UserManagement.html` endpoint.
 
+### 19.  Eurolab
+
+- **Product:** Eurolab ELTS100_UBX
+- **Vulnerabilities:**
+  -  Broken Access Control via Endpoints.
+
 
 
 ---
