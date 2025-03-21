@@ -11,5 +11,7 @@ A critical vulnerability has been identified in the axeltechnology devices, allo
   |---------|------------------|
   | WOLF1MS | 0.8.5 to 1.0.3 |
   | WOLF2MS | 0.8.5 to 1.0.3 |
+  | puma | 0.8.5 to 1.0.3 |
+  | StreamerMAX MK II | 0.8.5 to 1.0.3 |
 
 - **Vulnerabilitys Type:** Broken Access Control via endpoint  (CWE-285,CWE-284))
