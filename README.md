@@ -132,6 +132,16 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   -  Broken Access Control via Endpoints.
 
+### 21.  ITEL Electronics DAB
+
+- | Product     | Firmware Version |
+  |-------------|------------------|
+  | DAB Mux     | c041640a         |
+  | DAB Encoder | 25aec8d          |
+  | DAB Gateway | c041640a         |
+- **Vulnerabilities:**
+  -  Authentication Bypass via Endpoints.
+
 
 
 ---
