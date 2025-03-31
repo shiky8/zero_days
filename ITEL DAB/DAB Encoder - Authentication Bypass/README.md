@@ -55,6 +55,11 @@ The Itel DAB Encoder device (IDEnc build 25aec8d) is vulnerable to Authenticatio
 - **Exploit Complexity:** Low (manual token injection).  
 
 ---
+## jwt key is:
+```
+testing
+```
+---
 
 ## Proof of Concept (PoC)
 ### 1. Scenario Overview
