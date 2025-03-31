@@ -55,6 +55,12 @@ The Itel DAB MUX device (IDMUX build c041640a) is vulnerable to Authentication B
 - **Exploit Complexity:** Low (manual token injection).  
 
 ---
+## jwt key is:
+```
+testing
+```
+---
+
 
 ## Proof of Concept (PoC)
 ### 1. Scenario Overview
