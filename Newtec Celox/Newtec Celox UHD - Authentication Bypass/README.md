@@ -1,4 +1,4 @@
-# Newtec Celox UHD Authentication Bypass Vulnerability
+# Newtec Celox UHD Authentication Bypass / Privilege Escalation Vulnerability
 
 ## Description
 
