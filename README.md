@@ -142,6 +142,12 @@ The repository is organized into directories, each corresponding to a specific v
 - **Vulnerabilities:**
   -  Authentication Bypass via Endpoints.
 
+### 22.  Newtec Celox
+
+- **Product:** Newtec Celox UHD
+- **Vulnerabilities:**
+  -  Authentication Bypass  via  `/celoxservice` endpoint.
+
 
 
 ---
