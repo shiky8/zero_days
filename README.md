@@ -147,6 +147,7 @@ The repository is organized into directories, each corresponding to a specific v
 - **Product:** Newtec Celox UHD
 - **Vulnerabilities:**
   -  Authentication Bypass  via  `/celoxservice` endpoint.
+  -  Privilege Escalation
 
 
 
