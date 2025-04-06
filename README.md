@@ -149,6 +149,14 @@ The repository is organized into directories, each corresponding to a specific v
   -  Authentication Bypass  via  `/celoxservice` endpoint.
   -  Privilege Escalation
 
+### 23. **ENENSYS Technologies**
+   - | Product     | Firmware Version | Vulnerabilitys Type                                                                       |
+     |-------------|------------------|-------------------------------------------------------------------------------------------|
+     | IPGuard V2  | 2.10.0           | Information Disclosure Leading to Unauthorized Access (CWE-798,CWE-200,CWE-522)           |
+     |             |                  |                                                                                           |
+   - .
+
+
 
 
 ---
