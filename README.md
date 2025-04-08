@@ -154,7 +154,13 @@ The repository is organized into directories, each corresponding to a specific v
      |------------------|------------------|--------------------------------------------------------------------------------------------|
      | IPGuard V2       | 2.10.0         | Information Disclosure Leading to Unauthorized Access (CWE-798,CWE-200,CWE-522)              |
      | ENENSYS ATSC3.0  | 1.6.1          | Authentication Bypass via JWT Reuse and HTTP Response Manipulation (CWE-287,CWE-345,CWE-384) |
-   - .
+
+### 24. **NovelSat Ltd**
+   - | Product     | Firmware Version | Vulnerabilitys Type                                                                             |
+     |-------------|------------------|-------------------------------------------------------------------------------------------------|
+     | NS2000  Satellite Modem        | NS3000.7.x | **unauthenticated session hijacking** and **administrative access** (CWE-306,CWE-285,CWE-640,CWE-434)              |
+     | NS3000 Satellite Modem         | NS2000.x         | **unauthenticated session hijacking** and **administrative access** (CWE-306,CWE-285,CWE-640,CWE-434)   |
+
 
 
 
