@@ -161,6 +161,11 @@ The repository is organized into directories, each corresponding to a specific v
      | NS2000  Satellite Modem        | NS3000.7.x | **unauthenticated session hijacking** and **administrative access** (CWE-306,CWE-285,CWE-640,CWE-434)              |
      | NS3000 Satellite Modem         | NS2000.x         | **unauthenticated session hijacking** and **administrative access** (CWE-306,CWE-285,CWE-640,CWE-434)   |
 
+### 25.  GatesAir
+
+- **Product:** GatesAir Flexiva-LX Series
+- **Vulnerabilities:**
+  -  Session Hijacking  via  `log` endpoint.
 
 
 
