@@ -166,6 +166,14 @@ The repository is organized into directories, each corresponding to a specific v
 - **Product:** GatesAir Flexiva-LX Series
 - **Vulnerabilities:**
   -  Session Hijacking  via  `log` endpoint.
+  
+### 26.  Creacast
+
+- **Product:** Creacast Creabox Manager
+- **Vulnerabilities:**
+  -  Remote Code Execution (RCE).
+  -  Authentication Bypass
+  -  Information Disclosure
 
 
 
