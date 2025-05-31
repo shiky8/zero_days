@@ -175,6 +175,14 @@ The repository is organized into directories, each corresponding to a specific v
   -  Authentication Bypass
   -  Information Disclosure
 
+### 27.  2wcom
+
+- **Product:** 2wcom IP-4c
+- **Vulnerabilities:**
+  -  Remote Code Execution (RCE).
+  -  Information Disclosure
+  -  Broken Access Control
+
 
 
 
