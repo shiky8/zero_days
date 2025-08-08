@@ -183,6 +183,17 @@ The repository is organized into directories, each corresponding to a specific v
   -  Information Disclosure
   -  Broken Access Control
 
+### 28.  Blackmagic
+
+- | Product     | Firmware Version |
+  |-------------|------------------|
+  |  Blackmagic ATEM Mini Pro     | 2.7         |
+  | Blackmagic Web Presenter HD | 3.3          |
+- **Vulnerabilities:**
+  - Code Execution (CE) via Telnet.
+  - Information Disclosure via Telnet.
+
+
 
 
 
