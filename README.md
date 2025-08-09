@@ -193,6 +193,15 @@ The repository is organized into directories, each corresponding to a specific v
   - Code Execution (CE) via Telnet.
   - Information Disclosure via Telnet.
 
+### 29. **Sound4**
+   - | Product          | Firmware Version | Vulnerabilitys Type                                                                        |
+     |------------------|------------------|--------------------------------------------------------------------------------------------|
+     | PULSE-ECO AES67       | 1.22         | Remote Code Execution (RCE)             |
+     | PULSE IP eco  | 1.22         | Remote Code Execution (RCE)    |
+     | IMPACT |  2.33       | Remote Code Execution (RCE)  |
+     | FIRST | 2.33          | Remote Code Execution (RCE)  |
+
+
 
 
 
