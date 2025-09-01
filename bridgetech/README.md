@@ -5,3 +5,4 @@ bridgetech
 - **Vulnerabilities:**
   -  Broken Access Control.
   -  Stored xss
+  -  Information Disclosure
