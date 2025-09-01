@@ -200,6 +200,15 @@ The repository is organized into directories, each corresponding to a specific v
      | PULSE IP eco  | 1.22         | Remote Code Execution (RCE)    |
      | IMPACT |  2.33       | Remote Code Execution (RCE)  |
      | FIRST | 2.33          | Remote Code Execution (RCE)  |
+     
+### 30.  bridgetech
+
+- **Product:** 
+   -  bridgetech VBC Server & Element Manager
+- **Vulnerabilities:**
+  -  Broken Access Control.
+  -  Stored xss
+  -  Information Disclosure
 
 
 
