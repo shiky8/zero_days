@@ -19,7 +19,7 @@ Network engineers and QA teams needing real-time and historic insight into media
 
 Remote production and field engineers deploying NOMAD in dynamic environments.
 
-Large-scale operations managing many probes centrally via the VBC server.
+Large-scale operations.
 
 ---
 
